@@ -73,7 +73,7 @@ cmake --build .
 ## Class Diagram
 
 Below is the class diagram illustrating the structure of the Restaurant Management System:
-![Class Diagram](Vole-Machine-Design.jpg)
+![Class Diagram](classe%20design.jpg)
 
 ## Author
 Salsabil Bahaa Eldin
