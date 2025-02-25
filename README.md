@@ -76,5 +76,5 @@ Below is the class diagram illustrating the structure of the Restaurant Manageme
 ![Class Diagram](classes%20design.jpg)
 
 ## Author
-Salsabil Bahaa Eldin
-
+- Salsabil Bahaa Eldin
+- Doha Fathy
