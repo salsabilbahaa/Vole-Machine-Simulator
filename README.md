@@ -75,6 +75,6 @@ cmake --build .
 Below is the class diagram illustrating the structure of the Restaurant Management System:
 ![Class Diagram](classes%20design.jpg)
 
-## Author
+## Authors
 - Salsabil Bahaa Eldin
 - Doha Fathy
